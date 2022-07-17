@@ -1,4 +1,4 @@
-# Tech_With_Dinuwa_.github.io
+# Tech With Dinuwa.github.io
 
 TECH WITH DINUWA OFFICIAL WEB
 
