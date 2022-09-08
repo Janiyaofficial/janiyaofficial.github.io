@@ -1,6 +1,4 @@
-<style>
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@500&display=swap');
-</style>
 *{
   margin: 0;
   padding: 0;
@@ -26,7 +24,7 @@ body{
   text-align: center;
   color: 	#00FF00;
 }
-.center{
+.center1{
   display: flex;
   text-align: center;
   justify-content: center;
