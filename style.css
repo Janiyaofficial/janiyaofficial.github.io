@@ -26,6 +26,13 @@ body{
   text-align: center;
   color: 	#00FF00;
 }
+.center{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
 .ring{
   position: absolute;
   width: 200px;
