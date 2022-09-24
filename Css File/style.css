@@ -234,7 +234,7 @@ a{
 .footer-brand h1{
   font-size: 3rem;
   text-transform: uppercase;
-  color: black;
+  color: White;
 }
 .footer-brand h1 span {
   color: crimson;
@@ -295,7 +295,7 @@ a{
   margin-bottom: 20px ;
 }
 #footer{
-  background-color: Gainsboro;
+  background-color: black;
 }
 #footer .footer{
   min-height: 200px;
@@ -304,7 +304,7 @@ a{
   padding-bottom: 5px;
 }
 #footer h2{
-  color: black;
+  color: White;
   font-weight: 500;
   font-size: 1.4rem;
   letter-spacing: .1rem;
@@ -321,7 +321,7 @@ a{
   margin: 0 10px;
 }
 #footer p{
-  color: black;
+  color: White;
   font-size: 1.3rem;
 }
 @keyframes text_reval_box{
