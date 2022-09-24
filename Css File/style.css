@@ -188,9 +188,6 @@ a{
 #Services{
   
 }
-#Services .icon img{
-  filter: grayscale(1);
-}
 #Services .cta{
   display: inline-block;
   padding: 10px;
