@@ -57,7 +57,7 @@ a{
 }
 #header .header{
   min-height: 8vh;
-  background-color: black;
+  background-color: #454545;
 }
 #header .nav-bar{
   display: flex;
@@ -71,7 +71,7 @@ a{
 #header .nav-list ul{
   list-style: none;
   position: absolute;
-  background-color: black;
+  background-color: #454545;
   width: 100vw;
   height: 100vh;
   left: 100%;
@@ -183,7 +183,7 @@ a{
   flex-direction: column;
   padding: 30px;
   border-radius: 10px;
-  background-color: black;
+  background-color: #454545;
   background-size: cover;
   margin: 10px 5%;
   position: relative;
@@ -196,7 +196,7 @@ a{
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: black;
+  background-color: #454545;
   opacity: .7;
   z-index: -1;
 }
@@ -218,7 +218,7 @@ a{
   margin-bottom: 20px ;
 }
 #footer{
-  background-color: black;
+  background-color: #454545;
 }
 #footer .footer{
   min-height: 200px;
