@@ -1,5 +1,5 @@
-# Tech With Dinuwa.github.io
+# janiyaofficial.github.io
 
-TECH WITH DINUWA OFFICIAL WEB
+JANIYA OFFICIAL WEB
 
-https://tech-with-dinuwa.github.io/
+https://janiyaofficial.github.io/
